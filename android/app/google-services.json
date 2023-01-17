@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "178617922878",
+    "project_id": "tawasel-cfb8a",
+    "storage_bucket": "tawasel-cfb8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178617922878:android:98a2a29654109e1d03686f",
+        "android_client_info": {
+          "package_name": "com.example.tawasel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178617922878-3a3kc66u804m8vc9hfrtrf9paq1312cv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tawasel",
+            "certificate_hash": "c016f7dc67905ea1283c3b7a32aa4cf53c212fa7"
+          }
+        },
+        {
+          "client_id": "178617922878-h94coktata7pt1hv8rbi6mmm9ldle0lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZJhryHz9vU50gnEZF_XQA3wQqc2_aed8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178617922878-h94coktata7pt1hv8rbi6mmm9ldle0lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
